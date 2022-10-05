@@ -12,7 +12,7 @@
 
 <!--<h6>I build <a href="https://stephenajulu.com/portfolio">websites</a>, write <a href="https://stephenajulu.com/blog">articles</a>, design <a href="https://stephenajulu.com/portfolio">graphics</a>, provide <a href="https://stephenajulu.com/book-a-consultation">advice</a> and sell <a href="https://stephenajulu.com/store">digital products</a>.<br>I have 8 years of tech experience, creating products, content and solutons while providing IT services.<br>Do you have a project or need a solution? Then ↴<br><a href="https://stephenajulu.com/contact">Contact me to get in touch now!</a></h6>-->
 
-<!-- <img src="https://media2.giphy.com/media/AYMKP85HaWpz8vPBkA/giphy.gif?cid=ecf05e472jt86ag5vcya7corqmdu536r8wor7wb02sl8u4z0&rid=giphy.gif&ct=g" />-->
+ <img src="https://media2.giphy.com/media/AYMKP85HaWpz8vPBkA/giphy.gif?cid=ecf05e472jt86ag5vcya7corqmdu536r8wor7wb02sl8u4z0&rid=giphy.gif&ct=g" />
 <br />
 
 
