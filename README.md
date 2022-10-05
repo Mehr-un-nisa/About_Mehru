@@ -1,1 +1,66 @@
 # About_Mehru
+<h1 align="center">Hi Folks!</h1>   
+<!--
+**Mehr-un-nisa/Mehr-un-nisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<p align="center">
+  
+💥 ![](https://komarev.com/ghpvc/?username=Mehr-un-nisa&color=blueviolet&label=Profile+Views)💥 
+</p>
+<a href="https://github.com/EishaButt"><img width="35%" align="right" alt="EishaButt" src="https://github-profile-trophy.vercel.app/?username=EishaButt&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
+<h3>Hi! I'm Mehru 😇<br> Currently working as Software Consultant at Rolustech</h3> 
+
+<!--<h6>I build <a href="https://stephenajulu.com/portfolio">websites</a>, write <a href="https://stephenajulu.com/blog">articles</a>, design <a href="https://stephenajulu.com/portfolio">graphics</a>, provide <a href="https://stephenajulu.com/book-a-consultation">advice</a> and sell <a href="https://stephenajulu.com/store">digital products</a>.<br>I have 8 years of tech experience, creating products, content and solutons while providing IT services.<br>Do you have a project or need a solution? Then ↴<br><a href="https://stephenajulu.com/contact">Contact me to get in touch now!</a></h6>-->
+
+<!-- <img src="https://media2.giphy.com/media/AYMKP85HaWpz8vPBkA/giphy.gif?cid=ecf05e472jt86ag5vcya7corqmdu536r8wor7wb02sl8u4z0&rid=giphy.gif&ct=g" />-->
+<br />
+
+
+-  Bachelor's degree in Computer Science from Univeristy of Engineering and technology, Lahore
+-  Focused in Bug finding 
+-  Skilled in Testing and Designing
+-  Currently working on automation using Selenium and Eclipse
+-  Passionate to contribute in open-source
+
+
+<hr>
+<p align="center">
+ <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EishaButt&hide=python&layout=compact&theme=jolly" alt="Mehr-un-nisa's Github Languages"/>
+<p/>
+
+<p align="center">
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mehr-un-nisa&show_icons=true&theme=jolly" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehr-un-nisa&theme=jolly" />
+</p>
+
+
+
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mehr-un-nisa&bg_color=000000&color=ffffff&line=f364a2&point=ffffff&area=true&hide_border=true)
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg"/>
+</p>
+
+
+### Tools & Technologies
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" width="30" height="30"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="30" height="30"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="30" alt="C++" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="30" height="30"/>  <img src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/BuildSettings.Editor.png" alt="Unity" width="30" height="30"/><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width="30" height="30"/><img src="https://icon-library.com/images/adobe-icon-png/adobe-icon-png-20.jpg" alt="Adobe Illustraotr" width="30" height="30"/>
+	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="Jira" width="30" height="30"/><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Postman" width="30" height="30"/><img src="" alt="Postman" width="30" height="30"/>
+</p>
+
+<!-- <h1 align="center"></h1>
+	  
+ <table align="center">
+ <th> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"/> Connect with me  :</th>
+<td>
+   <a href="https://www.linkedin.com/in/eisha-butt-30a343185/" class="pics"><img src="https://user-images.githubusercontent.com/56452820/132254880-375d3383-f227-4920-a94b-e567592268f8.png" height="47vh">  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=eisharathore5@gmail.com" class="pics"><img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" height="47vh"></td>
+    </table>
+	  
+----
+
+<p align="center"> 💻 Made with ❣️  
+<a style='text-decoration: none;' href="https://github.com/EishaButt">@EishaButt</a> 😇 -->
+<!-- </p> -->
+
