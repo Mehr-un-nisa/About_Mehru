@@ -48,17 +48,10 @@
 	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="Jira" width="30" height="30"/><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Postman" width="30" height="30"/>
 </p>
 
-<!-- <h1 align="center"></h1>
-	  
- <table align="center">
- <th> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"/> Connect with me  :</th>
-<td>
-   <a href="https://www.linkedin.com/in/eisha-butt-30a343185/" class="pics"><img src="https://user-images.githubusercontent.com/56452820/132254880-375d3383-f227-4920-a94b-e567592268f8.png" height="47vh">  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=eisharathore5@gmail.com" class="pics"><img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" height="47vh"></td>
-    </table>
-	  
-----
 
-<p align="center"> 💻 Made with ❣️  
-<a style='text-decoration: none;' href="https://github.com/EishaButt">@EishaButt</a> 😇 -->
-<!-- </p> -->
+	  
+ 
+	  
+
+
+
