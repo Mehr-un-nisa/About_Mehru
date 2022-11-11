@@ -30,12 +30,6 @@
  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehr-un-nisa&hide=python&layout=compact&theme=jolly" alt="Mehr-un-nisa's Github Languages"/>
 </p>
 
-<p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mehr-un-nisa&show_icons=true&theme=jolly" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehr-un-nisa&theme=jolly"/>
-</p>
-
-
 
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mehr-un-nisa&bg_color=000000&color=ffffff&line=f364a2&point=ffffff&area=true&hide_border=true)
