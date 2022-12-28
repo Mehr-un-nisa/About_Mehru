@@ -31,9 +31,6 @@
 </p>
 
 
-
-<! -- [Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mehr-un-nisa&bg_color=000000&color=ffffff&line=f364a2&point=ffffff&area=true&hide_border=true) -->
-
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg"/>
 </p>
