@@ -16,7 +16,7 @@
 
 
 -  Currently working as Software Quality Engineer at Rolustech
--  Bachelor's degree in Computer Science from Univeristy of Engineering and technology, Lahore
+-  Bachelor's degree in Computer Science from UET, Lahore
 -  Focused in Bug finding 
 -  Skilled in Testing and Designing
 -  Currently working on automation using Selenium and Eclipse
