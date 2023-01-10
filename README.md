@@ -15,7 +15,7 @@
 <br />
 
 
--  Currently working as Software Consultant at Rolustech
+-  Currently working as Software Quality Engineer at Rolustech
 -  Bachelor's degree in Computer Science from Univeristy of Engineering and technology, Lahore
 -  Focused in Bug finding 
 -  Skilled in Testing and Designing
