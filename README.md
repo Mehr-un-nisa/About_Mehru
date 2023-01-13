@@ -25,10 +25,10 @@
 
 
 
-<hr>
+<!--<hr>
 <p align="center">
  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehr-un-nisa&hide=python&layout=compact&theme=jolly" alt="Mehr-un-nisa's Github Languages"/>
-</p>
+</p>-->
 
 
 ### Tools & Technologies
