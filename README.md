@@ -7,7 +7,7 @@
   
 </p>
 <!-- <a href="https://github.com/Mehr-un-nisa"><img width="35%" align="right" alt="Mehr-un-nisa" src="https://github-profile-trophy.vercel.app/?username=Mehr-un-nisa&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a> -->
-<h2>Hi! I'm Mehru <br>  Software Quality Engineer at Rolustech </h2> 
+<h2>Hi! I'm Mehru <br>  Software Quality Engineer at i2c </h2> 
 
 <!--<h6>I build <a href="https://stephenajulu.com/portfolio">websites</a>, write <a href="https://stephenajulu.com/blog">articles</a>, design <a href="https://stephenajulu.com/portfolio">graphics</a>, provide <a href="https://stephenajulu.com/book-a-consultation">advice</a> and sell <a href="https://stephenajulu.com/store">digital products</a>.<br>I have 8 years of tech experience, creating products, content and solutons while providing IT services.<br>Do you have a project or need a solution? Then ↴<br><a href="https://stephenajulu.com/contact">Contact me to get in touch now!</a></h6>-->
 
@@ -15,7 +15,7 @@
 <br />
 
 
--  Currently working as Software Quality Engineer at Rolustech
+-  Currently working as Software Quality Engineer at i2c
 -  Bachelor's degree in Computer Science from UET, Lahore
 -  Focused in Bug finding 
 -  Skilled in Testing and Designing
